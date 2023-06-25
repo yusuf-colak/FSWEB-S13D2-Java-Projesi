@@ -43,6 +43,9 @@ isPerfectNumber(-1); => false dönmeli(parametre 0'dan küçük olamaz)
 * Sayının değeri 0'dan küçükse "Invalid Value" değeri dönmeli.
 
 numberToWords(123); => "One Two Three" dönmeli.
+
 numberToWords(1010); => "One Zero One Zero" dönmeli.
+
 numberToWords(-12); => "Invalid Value" dönmeli
+
 
