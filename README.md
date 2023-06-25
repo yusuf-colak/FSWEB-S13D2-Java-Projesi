@@ -1,4 +1,4 @@
-# Introduction To Java :)
+# Java Algorithmic Thinking :)
 
 ### Proje Kurulumu
 
